@@ -1,0 +1,13 @@
+{
+  "title": "Product Category Distribution",
+  "subtitle": "Market Share Analysis - Q4 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "pie",
+    "data": {
+      "labels": ["Electronics", "Clothing", "Home & Garden", "Sports", "Books"],
+      "values": [35, 25, 20, 15, 5]
+    }
+  },
+  "footer": "© 2025 Market Research - All rights reserved"
+}

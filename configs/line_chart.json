@@ -1,0 +1,13 @@
+{
+  "title": "Monthly Sales Performance",
+  "subtitle": "Revenue Trends - Q1 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "line",
+    "data": {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+      "values": [120, 140, 110, 160, 180, 200]
+    }
+  },
+  "footer": "© 2025 Sales Analytics - All rights reserved"
+}

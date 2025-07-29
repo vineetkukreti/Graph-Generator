@@ -1,0 +1,13 @@
+{
+  "title": "Sales Trend Analysis",
+  "subtitle": "Monthly Performance – 2024",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "line",
+    "data": {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+      "values": [120, 140, 110, 160, 180, 200]
+    }
+  },
+  "footer": "© 2025 Sales Department – Confidential"
+}

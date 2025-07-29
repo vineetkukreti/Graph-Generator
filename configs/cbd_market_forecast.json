@@ -1,0 +1,36 @@
+{
+  "title": "CBD Market Size Forecast",
+  "subtitle": "Global Market Analysis 2024-2033",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "stacked_bar",
+    "data": {
+      "years": [
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "2029",
+        "2030",
+        "2031",
+        "2032",
+        "2033"
+      ],
+      "categories": ["CBD Oil", "CBD Isolates", "CBD Concentrates", "Others"],
+      "values": [
+        [2.8, 1.2, 0.9, 0.5],
+        [3.2, 1.5, 1.1, 0.6],
+        [3.8, 1.8, 1.3, 0.7],
+        [4.5, 2.2, 1.6, 0.9],
+        [5.3, 2.7, 2.0, 1.1],
+        [6.2, 3.2, 2.4, 1.3],
+        [7.2, 3.8, 2.9, 1.6],
+        [8.4, 4.5, 3.4, 1.9],
+        [9.7, 5.3, 4.0, 2.2],
+        [11.2, 6.2, 4.7, 2.6]
+      ]
+    }
+  },
+  "footer": "© 2024 Market Research Dashboard – Data Source: Industry Analysis"
+}

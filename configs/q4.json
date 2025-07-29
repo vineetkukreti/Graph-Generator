@@ -1,0 +1,13 @@
+{
+  "title": "Q4 FY25 Performance Overview",
+  "subtitle": "Consolidated Results – 9 Jul 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "bar",
+    "data": {
+      "labels": ["Q1", "Q2", "Q3", "Q4"],
+      "values": [180, 230, 210, 260]
+    }
+  },
+  "footer": "© 2025 Acme Corp – All rights reserved"
+}

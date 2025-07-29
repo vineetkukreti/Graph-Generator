@@ -1,0 +1,13 @@
+{
+  "title": "Technology Market Trends",
+  "subtitle": "AI & Cloud Computing Growth - 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "line",
+    "data": {
+      "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+      "values": [1200, 1350, 1180, 1680, 1950, 2240]
+    }
+  },
+  "footer": "© 2025 Technology Research Division"
+}

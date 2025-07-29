@@ -1,0 +1,19 @@
+{
+  "title": "Regional Sales Comparison",
+  "subtitle": "Q4 Performance by Region - 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "bar",
+    "data": {
+      "labels": [
+        "North America",
+        "Europe",
+        "Asia Pacific",
+        "Latin America",
+        "Middle East"
+      ],
+      "values": [450, 380, 320, 280, 150]
+    }
+  },
+  "footer": "© 2025 Global Sales Report - All rights reserved"
+}

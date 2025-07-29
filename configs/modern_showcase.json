@@ -1,0 +1,13 @@
+{
+  "title": "Q4 FY25 Performance Overview",
+  "subtitle": "Revenue Growth & Market Expansion",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "bar",
+    "data": {
+      "labels": ["Q1", "Q2", "Q3", "Q4"],
+      "values": [850, 920, 1150, 1340]
+    }
+  },
+  "footer": "© 2025 Executive Dashboard – Confidential Data"
+}

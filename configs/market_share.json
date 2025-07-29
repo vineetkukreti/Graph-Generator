@@ -1,0 +1,13 @@
+{
+  "title": "Market Share Distribution",
+  "subtitle": "By Product Category – Q4 2025",
+  "logo_path": "assets/logo.png",
+  "graph": {
+    "type": "pie",
+    "data": {
+      "labels": ["Product A", "Product B", "Product C", "Product D"],
+      "values": [35, 25, 20, 20]
+    }
+  },
+  "footer": "© 2025 Market Research Division"
+}
